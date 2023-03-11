@@ -83,5 +83,6 @@ public class insertionSort {
 			System.out.print(i + " ");
 		
 	}
-	
+	//insertion sort algoritmasını linked list üzerinde kullanmak daha doğru olacaktır.
+	//çünkü arrayler üzerinde kullanmak arrayin içinde shifting yapmayı gerektirir ve bu bize ekstra bir işlem karmaşıklığı verir. linked listlerde bu sıkıntı yoktur.
 }
