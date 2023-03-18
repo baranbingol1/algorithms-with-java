@@ -1,4 +1,4 @@
-//How to find sum of digits recursively?
+//Q: How to find sum of digits recursively?
 class sumOfDigits {
     public static void main(String[] args) {
         System.out.println(sumOfDigits(12));
